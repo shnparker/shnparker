@@ -3,6 +3,7 @@
 ### About me
 
 I'm a skilled frontend developer currently working for GoDaddy, busy expanding his knowledge by learning backend.
+This profile is rather quiet, as I have a company specific GitHub account, you can ignore the activity log.
 
 ### Preferred tech stack
 <p align="left">
