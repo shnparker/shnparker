@@ -10,8 +10,7 @@
 
 - 🌱&nbsp;&nbsp;I'm currently very passionate about mental health in the highly driven software development industry
 
-- 📫&nbsp;&nbsp;You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/shnparker/) or via my website
-
+- 📫&nbsp;&nbsp;You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/shnparker/) or drop me a mail at <a href="mailto:hey@shnparker.com">hey@shnparker.com</a>
 - 📚&nbsp;&nbsp;You can [learn more about me on my website](https://shnparker.com/about)
 
 ### Github statistics
