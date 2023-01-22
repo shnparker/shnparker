@@ -12,7 +12,7 @@
 
 - 📫&nbsp;&nbsp;You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/shnparker/)
 
-- 📚&nbsp;&nbspYou can [learn more about me on my website](https://shnparker.com/about)
+- 📚&nbsp;&nbsp;You can [learn more about me on my website](https://shnparker.com/about)
 
 ### Github statistics
 
