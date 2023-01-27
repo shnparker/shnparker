@@ -17,13 +17,10 @@
 
 This profile is intended for private purposes, my work for GoDaddy happens on another GitHub account, so unfortunately those stats don't make it here!
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shnparker&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="shnparker" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnparker&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="shnparker" />
-</p>
-
 ### Blogs posts
 
 Visit my site to see a full list of blog posts! I've only starting my blogging journey recently.
 
-- [The impact of artificial intelligence for develoeprs](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)
+- [The impact of artificial intelligence for developers](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)
+- [Mental health is a problem in the software industry](https://www.shnparker.com/articles/mental-health-is-a-problem-in-the-software-industry)
 
