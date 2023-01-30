@@ -6,7 +6,7 @@
 
 ### About myself
 
-- 💻&nbsp;&nbsp;I specialize in front-end and people-driven development. I’m the founder of some side projects I'm excited to announce soon!
+- 💻&nbsp;&nbsp;I specialize in front-end and people-driven development.
 
 - 🌱&nbsp;&nbsp;I'm currently very passionate about mental health in the highly driven software development industry
 
