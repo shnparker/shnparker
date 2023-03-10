@@ -21,7 +21,7 @@ This profile is intended for private purposes. My work for GoDaddy happens on an
 
 Visit my site to see a full list of blog posts! I've only starting my blogging journey recently.
 
-- [Be careful what you test for: A tale of dark mode and Cypress](https://shnparker.com/articles/be-careful-what-you-test-for)
+- [Fixing unreliable dark mode tests in Cypress](https://www.shnparker.com/articles/fixing-unreliable-dark-mode-tests-in-cypress)
 - [Mental health is a problem in the software industry](https://www.shnparker.com/articles/mental-health-is-a-problem-in-the-software-industry)
 - [The impact of artificial intelligence for developers](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)
 
