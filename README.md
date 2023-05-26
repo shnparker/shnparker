@@ -63,6 +63,10 @@ I'm Shane Parker, a software engineer from Cape Town, South Africa.
 ### :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Embracing self-reflection to own mistakes and boost career growth](https://www.shnparker.com/articles/self-reflection-to-own-mistakes-and-boost-career-growth)
+- [Fixing unreliable dark mode tests in Cypress](https://www.shnparker.com/articles/fixing-unreliable-dark-mode-tests-in-cypress)
+- [Mental health is a problem in the software industry](https://www.shnparker.com/articles/mental-health-is-a-problem-in-the-software-industry)
+- [The impact of artificial intelligence for developers](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)
 <!-- BLOG-POST-LIST:END -->
 
 
