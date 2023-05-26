@@ -69,17 +69,13 @@ I'm Shane Parker, a software engineer from Cape Town, South Africa.
 - [The impact of artificial intelligence for developers](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)
 <!-- BLOG-POST-LIST:END -->
 
+Some of my blog posts have also featured on other companies' blogs.
 
-# Articles
+#### OfferZen Blog
 
-Visit my site to see a full list of blog posts!
+- [Prioritising mental health in the software industry](https://www.offerzen.com/blog/prioritising-mental-health-in-the-software-industry)
+- [Embracing self-reflection to own mistakes and boost career growth](https://www.offerzen.com/blog/self-reflection-to-own-mistakes-and-boost-career-growth)
 
-- [Embracing self-reflection to own mistakes and boost career growth](https://www.shnparker.com/articles/self-reflection-to-own-mistakes-and-boost-career-growth)
-- [Fixing unreliable dark mode tests in Cypress](https://www.shnparker.com/articles/fixing-unreliable-dark-mode-tests-in-cypress)
-- [Mental health is a problem in the software industry](https://www.shnparker.com/articles/mental-health-is-a-problem-in-the-software-industry)
-- [The impact of artificial intelligence for developers](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)
+#### GoDaddy Engineering Blog
 
-Some of my articles have featured on other companies' blog posts.
-
-- [Mental health article on the GoDaddy Engineering Blog](https://www.godaddy.com/engineering/2023/02/03/mental-health-in-software-industry/)
-- [Self-reflection article on the OfferZen blog](https://www.offerzen.com/blog/self-reflection-to-own-mistakes-and-boost-career-growth)
+- https://www.godaddy.com/engineering/2023/02/03/mental-health-in-software-industry/
