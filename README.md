@@ -55,8 +55,8 @@ I'm Shane Parker, a software engineer from Cape Town, South Africa.
 
 ### :fire: Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shnparker&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shnparker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shnparker)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shnparker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
