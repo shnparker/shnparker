@@ -78,4 +78,4 @@ Some of my blog posts have also featured on other companies' blogs.
 
 #### GoDaddy Engineering Blog
 
-- https://www.godaddy.com/engineering/2023/02/03/mental-health-in-software-industry/
+- [Mental health is a problem in the software industry](https://www.godaddy.com/engineering/2023/02/03/mental-health-in-software-industry/)
