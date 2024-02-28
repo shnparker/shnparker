@@ -13,7 +13,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=shnparker&style=flat-square&color=blue" alt=""/>
   
-  <h1>Hi, I'm Shane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hey, I'm Shane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 <div align="center">
@@ -24,15 +24,15 @@
 
 ### :man_technologist: About Me
 
-I'm Shane Parker, a software engineer from Cape Town, South Africa. 
+I'm Shane Parker. I'm a software engineer from Cape Town, South Africa. 
 
 - :telescope: I specialise in front-end development and human-centric teams.
 
-- :seedling: When not working, I play games with his friends and enjoys exercising and relaxing with loved ones.
+- :seedling: I enjoy playing video games and spending time with my friends and family in my free time.
 
-- :zap: I co-founded Sitestack and Lineage Systems and am currently working for GoDaddy Inc.
+- :zap: I currently work at GoDaddy as part of the Web team responsible for the Studio Web product. 
 
-- :mailbox: You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/shnparker/) or drop me a mail at <a href="mailto:hey@shnparker.com">hey@shnparker.com</a>
+- :mailbox: You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/shnparker/) or drop me an email at <a href="mailto:hey@shnparker.com">hey@shnparker.com</a>
 
 ---
 
@@ -62,14 +62,12 @@ I'm Shane Parker, a software engineer from Cape Town, South Africa.
 
 ### :writing_hand: Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Embracing self-reflection to own mistakes and boost career growth](https://www.shnparker.com/articles/self-reflection-to-own-mistakes-and-boost-career-growth)
 - [Fixing unreliable dark mode tests in Cypress](https://www.shnparker.com/articles/fixing-unreliable-dark-mode-tests-in-cypress)
 - [Mental health is a problem in the software industry](https://www.shnparker.com/articles/mental-health-is-a-problem-in-the-software-industry)
-- [The impact of artificial intelligence for developers](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)
-<!-- BLOG-POST-LIST:END -->
+- [The impact of artificial intelligence for developers](https://www.shnparker.com/articles/the-impact-of-artificial-intelligence-for-developers)<!-- BLOG-POST-LIST:END -->
 
-Some of my blog posts have also featured on other companies' blogs.
+Some of my blog posts have also been featured on other companies' blogs.
 
 #### OfferZen Blog
 
